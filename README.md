@@ -27,7 +27,7 @@ Un cliente necesita analizar un conjunto de datos de incidentes de incendios en 
 
 - `FireCaseSF.ipynb`: Notebook en Jupyter que contiene el procesamiento y la carga de datos en PostgreSQL.
 - `Fire_Incidents_20241027.csv`: Dataset original en formato CSV con los datos de incidentes de incendios.
-- `fire_incidents.sql`: Archivo SQL con el volcado completo de la base de datos, incluyendo la estructura y los datos de la tabla `fire_incidents`.
+- `fire_incidents.sql`: Archivo SQL con el volcado completo de la base de datos, incluyendo la estructura y los datos de la tabla `Fire_Incidents_20241027.csv`.
 - `queries.sql`: Archivo SQL con las consultas necesarias para realizar el análisis de datos requerido.
 
 ## Instalación y Configuración
